@@ -5,7 +5,7 @@ import cv2, numpy
 def main():
     # download some tennis ball images to try this script and edit following fields
     # accordingly
-    image_dir = "/home/piyush/Pictures/Tennis_Balls/"
+    image_dir = "/home/piyush/Pictures/OpenCV/Tennis_Balls/"
     image_name = "002"
     image_ext = ".jpeg"
     image_path = f"{image_dir}{image_name}{image_ext}"
